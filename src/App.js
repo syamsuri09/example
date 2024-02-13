@@ -29,6 +29,7 @@ function App() {
       {/* <Welcome name="Bruce" heroName="BatMan" />
       <Welcome name="Clark" heroName="SuperMan" />
       <Welcome name="Diana" heroName="Wonder Woman" /> */}
+      {/* <-- Syam Suri --> */}
     </div>
   );
 }
